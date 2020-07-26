@@ -16,5 +16,6 @@ int main()
         i++;
     }
     std::cout << "Finished allocation";
+    std::cout << "";
     return 0;
 }
